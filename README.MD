@@ -74,3 +74,37 @@ Solved practice problems based on programming elements
 Committed and pushed solutions to GitHub
 
 🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+
+
+
+📆 Day 4: Control Flow & Logical Constructs
+
+Date: 19 December 2025
+
+Studied control flow statements:
+
+if, if-else
+
+switch
+
+Ternary operator
+
+Practiced iteration statements:
+
+for loop
+
+while loop
+
+do-while loop
+
+Used break and continue
+
+Solved logical problems:
+
+Factorial calculation
+
+Prime number check
+
+Committed and pushed solutions
+
+🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
