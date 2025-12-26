@@ -35,3 +35,22 @@ BridgeLabz-Training/
 
 
 Successfully pushed files to the remote repository
+
+
+📆 Day 2: Git Practice & Basic Java Programs
+
+Date: 17 December 2025
+
+Practiced Git workflow to understand version control
+
+Learned how commits track code changes
+
+Solved basic Java programs to understand:
+
+Syntax
+
+Program structure
+
+Practiced adding, committing, and pushing Java files to GitHub
+
+🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
