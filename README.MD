@@ -18,7 +18,7 @@ git commit
 git push
 
 Created project structure:
-
+```
 BridgeLabz-Training/
 │── core-java-practice/
 │   └── gcr-codebase/
@@ -32,10 +32,11 @@ BridgeLabz-Training/
 │   └── leet-code-codebase/
 │   └── scenario-based-codebase/
 └── README.md
-
+```
 
 Successfully pushed files to the remote repository
 
+---
 
 📆 Day 2: Git Practice & Basic Java Programs
 
@@ -55,7 +56,7 @@ Practiced adding, committing, and pushing Java files to GitHub
 
 🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
 
-
+---
 
 📆 Day 3: Programming Elements in Java
 
@@ -75,7 +76,7 @@ Committed and pushed solutions to GitHub
 
 🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
 
-
+---
 
 📆 Day 4: Control Flow & Logical Constructs
 
@@ -108,3 +109,32 @@ Prime number check
 Committed and pushed solutions
 
 🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+
+---
+
+
+📆 Day 5: Arrays & Basic Problem Solving
+
+Date: 20 December 2025
+
+Studied arrays in Java:
+
+Single-dimensional arrays
+
+Multi-dimensional arrays
+
+Practiced array traversal and operations
+
+Solved problems related to:
+
+Finding missing elements
+
+Basic array-based logic
+
+Improved logical thinking
+
+Committed and pushed solutions
+
+🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+
+---
