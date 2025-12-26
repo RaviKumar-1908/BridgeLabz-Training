@@ -1,12 +1,13 @@
+/.metadata/
 # Eclipse specific files
 .metadata/
-.setting/
+.settings/
 .classpath
 .project
 
 # Java build output
-bin\
-target\
+bin/
+target/
 
 # Logs
 *.log 
