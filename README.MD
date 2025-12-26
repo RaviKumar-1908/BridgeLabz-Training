@@ -54,3 +54,23 @@ Program structure
 Practiced adding, committing, and pushing Java files to GitHub
 
 🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
+
+
+
+📆 Day 3: Programming Elements in Java
+
+Date: 18 December 2025
+
+Studied Java programming elements:
+
+Variables and Data Types
+
+Operators
+
+User Input and Output
+
+Solved practice problems based on programming elements
+
+Committed and pushed solutions to GitHub
+
+🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
