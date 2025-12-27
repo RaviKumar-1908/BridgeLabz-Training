@@ -138,3 +138,20 @@ Committed and pushed solutions
 🔗 Code Link: https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
 ---
+
+
+
+---
+### 🗓 Day 6 – Java Methods  
+**(Date: 22-Dec-2025)**
+
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:** [Methods](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
+
+---
