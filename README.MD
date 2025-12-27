@@ -155,3 +155,19 @@ Committed and pushed solutions
 🔗 **Code Link:** [Methods](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
 
 ---
+
+### 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
+
+### 🗓 Day 1 – String manipulation 
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:** [String](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+---
