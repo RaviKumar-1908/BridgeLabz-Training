@@ -187,3 +187,21 @@ Committed and pushed solutions
 🔗 **Code Link:** [Extras](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras) 
 
 ---
+
+
+
+
+### 🗓 Day 3 – Leet Code and Scenario Based problems  
+**(Date: 24-Dec-2025)**
+
+- Practiced and Solved Leet Code questions on Arrays.
+- Solved Scenario based prblems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** 
+Leet Code : [Leet-Code](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+Scenario based : [Scenario](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
