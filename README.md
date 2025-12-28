@@ -62,15 +62,3 @@ Object initialization using constructors
 
 Controlled visibility & secure design
 
-✅ Progress Snapshot
-
-✔ Solid foundation in Java OOP basics
-✔ Clear understanding of objects & initialization
-✔ Ready for Inheritance & Polymorphism
-
-<div align="center">
-🚀 Next Topics
-
-this • super • Inheritance • Method Overriding • Polymorphism
-
-</div>
