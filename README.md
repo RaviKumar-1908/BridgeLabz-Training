@@ -62,3 +62,41 @@ Object initialization using constructors
 
 Controlled visibility & secure design
 
+
+🗓 Day 3 — Java Keywords, Operators & IDE Usage
+
+📅 29 December 2015
+
+📌 Topics Covered
+
+this keyword
+
+Refers to the current object
+
+Differentiates instance variables from local variables
+
+static keyword
+
+Class-level variables and methods
+
+Shared across all objects
+
+final keyword
+
+Final variables (constants)
+
+Prevents method overriding and class inheritance
+
+instanceof operator
+
+Checks object type at runtime
+
+Used in inheritance-based logic
+
+Eclipse Editor Introduction
+
+Understanding workspace and project structure
+
+Creating classes and packages
+
+Writing, running, and debugging Java programs
