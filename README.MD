@@ -158,7 +158,7 @@ Committed and pushed solutions
 
 ### 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
 
-### 🗓 Day 1 – String manipulation 
+### 🗓 Day 8 – String manipulation 
 **(Date: 22-Dec-2025)**
 
 - Studied String concepts:
@@ -172,7 +172,7 @@ Committed and pushed solutions
 
 ---
 
-### 🗓 Day 2 – Built-in Functions & Extra Practice  
+### 🗓 Day 9 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
 - Practiced Java built-in functions.
@@ -191,7 +191,7 @@ Committed and pushed solutions
 
 
 
-### 🗓 Day 3 – Leet Code and Scenario Based problems  
+### 🗓 Day 10 – Leet Code and Scenario Based problems  
 **(Date: 24-Dec-2025)**
 
 - Practiced and Solved Leet Code questions on Arrays.
@@ -200,8 +200,103 @@ Committed and pushed solutions
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** 
-Leet Code : [Leet-Code](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 Scenario based : [Scenario](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+
+### 🗓 Day 11 – Scenario-Based problems  
+**(Date: 26-Dec-2025)**
+
+- Solved scenario-based problems.
+- 3 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+### 🗓 Day 14 – Scenario-Based problems  
+**(Date: 29-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](### 🗓 Day 14 – Scenario-Based problems  
+**(Date: 29-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+### 🗓 Day 15 – Scenario-Based problems 
+**(Date: 30-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario]( https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase )
+
+### 🗓 Day 16 – Scenario-Based problems 
+**(Date: 31-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+## 🧮 Section C : LeetCode-based Problems Progress
+
+### 🗓 Day 9 – LeetCode problems  
+**(Date: 24-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 array problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+### 🗓 Day 13 – LeetCode problems  
+**(Date: 28-Dec-2025)**
+
+- Pushed LeetCode problems solved over four days.
+- 25 problems of four days.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+### 🗓 Day 15 – LeetCode problems  
+**(Date: 30-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 array problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
