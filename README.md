@@ -100,3 +100,25 @@ Understanding workspace and project structure
 Creating classes and packages
 
 Writing, running, and debugging Java programs
+
+
+### 🗓 Day 4 – Object Modelling & Real-World Design
+**(Date: 30-Dec-2025)**
+
+- Studied classes and objects and object modelling:
+  - Class Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Designed classes in Plain Old Java Object (POJO)
+- Learned object relationships:
+  - Association
+  - Aggregation
+  - Composition
+- Committed and pushed all work.
+
+🔗 **Code Link:** [Object-Modelling](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodelling/levelone)
+
+---
+## 🧩 Section B: Scenario-Based Problems Progress
+---
+## 🧮 Section C: LeetCode-based Problems Progress
