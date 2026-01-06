@@ -171,15 +171,6 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 
-### 🗓 Day 13 – LeetCode problems  
-**(Date: 28-Dec-2025)**
-
-- Pushed LeetCode problems solved over four days.
-- 15 problems of three days.
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
-
 
 
 ---
@@ -194,7 +185,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 
-### 🗓 Day 2 – Constructors  
+### 🗓 Day 12 – Constructors  
 **(Date: 27-Dec-2025)**
 
 - Learned the working of Constructors in java
@@ -204,7 +195,18 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 
-### 🗓 Day 3 – this, final & static in Java
+### 🗓 Day 13 – LeetCode problems  
+**(Date: 28-Dec-2025)**
+
+- Pushed LeetCode problems solved over four days.
+- 15 problems of three days.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+
+
+
+### 🗓 Day 14 – this, final & static in Java
 **(Date: 29-Dec-2025)**
 
 - Studied Java keywords:
@@ -215,7 +217,7 @@ BridgeLabz-Training/
 - Committed and pushed all work.
 
 
-### 🗓 Day 4 – Object Modeling & Real-World Design
+### 🗓 Day 15 – Object Modeling & Real-World Design
 **(Date: 30-Dec-2025)**
 
 - Studied classes and objects and object modeling:
@@ -228,6 +230,70 @@ BridgeLabz-Training/
   - Aggregation
   - Composition
 - Committed and pushed all work.
+
+
+
+
+
+### 🗓 Day 16 – Java Inheritance and Types
+**(Date: 31-Dec-2025)**
+- Studied inheritance and its types:
+  - Single level inheritance
+  - Multilevel inheritance
+  - Hierarchical inheritance
+  - Hybrid inheritance
+- Method Overriding and `@Override`
+- Constructor inheritance `super()` 
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+  - `public`
+  - `protected`
+  - Default (no modifier)
+  - `private`
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Inheritance and Types](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+
+### 🗓 Day 17 – Java Encapsulation & Polymorphism
+**(Date: 01-Dec-2026)**
+- Studied Encapsulation & Polymorphism:
+  - Types of Polymorphism
+    - Compile-Time (Static) Polymorphism
+    - Runtime (Dynamic) Polymorphism
+  - Polymorphism with `interface`
+  - Polymorphism with `abstract` classes
+  - Casting and `instanceof` with Polymorphism
+- Practiced Abstract Classes & interfaces
+  - Abstract Class vs Interface
+  - Interface vs Class
+- Learned more about best practices. 
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Encapsulation & Polymorphism](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)
+
+---
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 18 – Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedProblems/src/com)  
+
+### 🗓 Day 19 – Scenario-Based Practice  
+**(Date: 03-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedProblems/src/com)
+
+
+
+
+
 
 
 ---
