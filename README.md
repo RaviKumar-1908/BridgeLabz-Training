@@ -1,106 +1,95 @@
-<div align="center">
-☕ Java Object-Oriented Programming Practice
+# ☕ Java Object-Oriented Programming Practice
+**Structured • Clean • GitHub-Ready**
 
-Structured • Clean • GitHub-Ready
+📖 **About This Repository**  
+Day-wise practice and notes for Java Object-Oriented Programming (OOP). Focused on building strong fundamentals, clean code principles, and industry-ready understanding.
 
-</div>
-📖 About This Repository
+---
 
-Day-wise practice and notes for Java Object-Oriented Programming (OOP), focused on building strong fundamentals and industry-ready understanding.
-
-🗓 Day 1 — OOP Fundamentals & Core Concepts
-
-📅 26 December 2025
-
-📌 Topics
-
-Introduction to OOP and its importance
-
-Class & Object
-
-Class → Blueprint
-
-Object → Real-world entity
-
-6 OOP Principles
-
-Encapsulation, Abstraction, Inheritance
-
-Polymorphism, Modularity, Reusability
-
-🎯 Takeaways
-
-Better code organization & maintainability
-
-Promotes reusability and scalability
-
-🗓 Day 2 — Constructors, Access Control & Instance Variables
-
-📅 27 December 2025
-
-📌 Topics
-
-Constructors
-
-Default & Parameterized
-
-Access Modifiers
-
-public, private, protected, default
-
-Private Modifier
-
-Data hiding & encapsulation
-
-Instance Variables
-
-Object-level state
-
-🎯 Takeaways
-
-Object initialization using constructors
-
-Controlled visibility & secure design
+### 🗓 Day 1 — OOP Fundamentals & Core Concepts
+**📅 26 December 2025**
 
 
-🗓 Day 3 — Java Keywords, Operators & IDE Usage
+**📌 Topics**  
+- Introduction to OOP and its real-world importance  
+- **Class & Object**  
+  - Class → Blueprint/template  
+  - Object → Instance of a class (real-world entity)  
+- **6 Core OOP Principles**  
+  - Encapsulation  
+  - Abstraction  
+  - Inheritance  
+  - Polymorphism  
+  - Modularity  
+  - Reusability  
 
-📅 29 December 2015
+**🎯 Takeaways**  
+- Better code organization and maintainability  
+- Promotes reusability and scalability in large projects  
 
-📌 Topics Covered
+🔗 **Code Link**  
+👉 [Oops fundamentals](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops/day01-oop-fundamentals)
+---
 
-this keyword
+### 🗓 Day 2 — Constructors, Access Control & Instance Variables
+**📅 27 December 2025**
 
-Refers to the current object
 
-Differentiates instance variables from local variables
+**📌 Topics**  
+- **Constructors**  
+  - Default constructor  
+  - Parameterized constructor  
+- **Access Modifiers**  
+  - `public`  
+  - `private`  
+  - `protected`  
+  - Default (package-private)  
+- **Private Modifier**  
+  - Data hiding and true encapsulation  
+- **Instance Variables**  
+  - Object-level state (unique to each object)  
 
-static keyword
+**🎯 Takeaways**  
+- Proper object initialization using constructors  
+- Controlled data access leading to secure and robust design  
 
-Class-level variables and methods
+🔗 **Code Link**  
+👉 [Constructors & Access Modifiers](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops/day02-constructors-access)
+---
 
-Shared across all objects
+### 🗓 Day 3 — Java Keywords, Operators & IDE Usage
+**📅 29 December 2025**
 
-final keyword
 
-Final variables (constants)
+**📌 Topics Covered**  
+- **`this` keyword**  
+  - Refers to the current object  
+  - Differentiates instance variables from local/parameters  
+- **`static` keyword**  
+  - Class-level variables and methods  
+  - Shared across all objects (single copy in memory)  
+- **`final` keyword**  
+  - Final variables → constants (cannot be reassigned)  
+  - Final methods → prevents overriding  
+  - Final classes → prevents inheritance  
+- **`instanceof` operator**  
+  - Runtime type checking of objects  
+  - Essential for polymorphism and safe casting  
+- **Eclipse IDE Introduction**  
+  - Workspace and project structure  
+  - Creating packages and classes  
+  - Writing, compiling, running, and debugging Java programs  
 
-Prevents method overriding and class inheritance
+**🎯 Takeaways**  
+- Deep understanding of memory management with `static` and instance members  
+- Safe and flexible design using `final` and `instanceof`  
+- Hands-on proficiency with professional IDE workflow  
 
-instanceof operator
+🔗 **Code Link**  
+👉 [Keywords & Eclipse IDE](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops/day03-keywords-ide)
+---
 
-Checks object type at runtime
-
-Used in inheritance-based logic
-
-Eclipse Editor Introduction
-
-Understanding workspace and project structure
-
-Creating classes and packages
-
-Writing, running, and debugging Java programs
-
+*Consistent practice builds mastery. One concept at a time! 💪☕*
 
 ### 🗓 Day 4 – Object Modelling & Real-World Design
 **(Date: 30-Dec-2025)**
@@ -122,9 +111,7 @@ Writing, running, and debugging Java programs
 
 
 
-
-
-### 🗓 Day 13 – Java Inheritance and Types
+### 🗓 Day 5 – Java Inheritance and Types
 **(Date: 31-Dec-2025)**
 - Studied inheritance and its types:
   - Single level inheritance
@@ -143,7 +130,7 @@ Writing, running, and debugging Java programs
 - 🔗 **Code Link:**  
 👉 [Inheritance and Types](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
 
-### 🗓 Day 14 – Java Encapsulation & Polymorphism
+### 🗓 Day 6 – Java Encapsulation & Polymorphism
 **(Date: 01-Dec-2026)**
 - Studied Encapsulation & Polymorphism:
   - Types of Polymorphism
@@ -163,7 +150,7 @@ Writing, running, and debugging Java programs
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
-### 🗓 Day 15 – Scenario-Based Practice  
+### 🗓 Day 7 – Scenario-Based Practice  
 **(Date: 02-Jan-2026)**
 - Solved **5** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
@@ -171,7 +158,7 @@ Writing, running, and debugging Java programs
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedProblems/src/com)  
 
-### 🗓 Day 16 – Scenario-Based Practice  
+### 🗓 Day 8 – Scenario-Based Practice  
 **(Date: 03-Jan-2026)**
 - Solved **2** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
