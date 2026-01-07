@@ -1,4 +1,4 @@
-# ☕ Java Object-Oriented Programming Practice
+#  Java Object-Oriented Programming Practice
 **Structured • Clean • GitHub-Ready**
 
 📖 **About This Repository**  
@@ -23,9 +23,6 @@ Day-wise practice and notes for Java Object-Oriented Programming (OOP). Focused 
   - Modularity  
   - Reusability  
 
-**🎯 Takeaways**  
-- Better code organization and maintainability  
-- Promotes reusability and scalability in large projects  
 
 🔗 **Code Link**  
 👉 [Oops fundamentals](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops/day01-oop-fundamentals)
@@ -49,9 +46,6 @@ Day-wise practice and notes for Java Object-Oriented Programming (OOP). Focused 
 - **Instance Variables**  
   - Object-level state (unique to each object)  
 
-**🎯 Takeaways**  
-- Proper object initialization using constructors  
-- Controlled data access leading to secure and robust design  
 
 🔗 **Code Link**  
 👉 [Constructors & Access Modifiers](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops/day02-constructors-access)
@@ -80,16 +74,11 @@ Day-wise practice and notes for Java Object-Oriented Programming (OOP). Focused 
   - Creating packages and classes  
   - Writing, compiling, running, and debugging Java programs  
 
-**🎯 Takeaways**  
-- Deep understanding of memory management with `static` and instance members  
-- Safe and flexible design using `final` and `instanceof`  
-- Hands-on proficiency with professional IDE workflow  
 
 🔗 **Code Link**  
 👉 [Keywords & Eclipse IDE](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops/day03-keywords-ide)
 ---
 
-*Consistent practice builds mastery. One concept at a time! 💪☕*
 
 ### 🗓 Day 4 – Object Modelling & Real-World Design
 **(Date: 30-Dec-2025)**
@@ -131,7 +120,7 @@ Day-wise practice and notes for Java Object-Oriented Programming (OOP). Focused 
 👉 [Inheritance and Types](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
 
 ### 🗓 Day 6 – Java Encapsulation & Polymorphism
-**(Date: 01-Dec-2026)**
+**(Date: 01-Jan-2026)**
 - Studied Encapsulation & Polymorphism:
   - Types of Polymorphism
     - Compile-Time (Static) Polymorphism
@@ -176,5 +165,11 @@ Day-wise practice and notes for Java Object-Oriented Programming (OOP). Focused 
 
 
 
+### 🗓 Day 9 – Scenario-Based Practice  
+**(Date: 06-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedProblems/src/com)
 
-## 🧮 Section C: LeetCode-based Problems Progress
+
