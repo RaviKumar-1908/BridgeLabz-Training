@@ -167,5 +167,14 @@ Day-wise practice and notes for Java Object-Oriented Programming (OOP). Focused 
 👉 [Scenario Based Problems](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedProblems/src/com)
 
 
+### 🗓 Day 9 – Scenario-Based Practice  
+**(Date: 05-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenarioBasedProblems/src/com)
+
+
+
 
 ## 🧮 Section C: LeetCode-based Problems Progress
