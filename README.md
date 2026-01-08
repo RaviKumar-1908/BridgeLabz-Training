@@ -103,6 +103,7 @@ BridgeLabz-Training/
 |  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
 |  17 | 05-Jan      | Soring Algorithm               | Types of soring algorithm              |
 |  18 | 05-Jan      | Seraching and Fiel handling    | Dearch,stringbuilder/buffer file reader|
+|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 
 ---
 
@@ -132,6 +133,11 @@ BridgeLabz-Training/
 - **Queues**: FIFO principle, enqueue/dequeue operations, queue variants
 - **HashMaps**: Key-value storage, hashing concept, basic operations
 - **Sorting**: Basic sorting algorithms and comparison-based sorting concepts
+**Searching**: Linear Search and Binary Search algorithms
+- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
+- **File Handling**: Reading input using `FileReader` and `InputStreamReader`
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
+  
 - 
 ---
 
