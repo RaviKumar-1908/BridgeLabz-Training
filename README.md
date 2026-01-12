@@ -104,6 +104,16 @@ BridgeLabz-Training/
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 ---
+### 🗓 Day 20 – Scenario-Based Practice  
+**(Date: 10-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---
+
 ## 🧮 Section C : LeetCode-based Problems Progress
 
 ---
