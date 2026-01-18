@@ -39,18 +39,19 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-│   └── 📁 gcr-codebase/
-│   │  └── 📁 JavaOopsConcepts/
-│   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-│   │               └── 📁 constructor/       # Constructor, access modifiers
-│   │               └── 📁 inbuiltfunctions/  # Keywords, instance vs class members
-│   │               └── 📁 objectmodeling/    # Diagrams, relationships, communication
-│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
-│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
-│   └── 📁 scenario-based-codebase/           # Real-world problems
+|   └──📁 java-oops-practice/
+│   |  └── 📁 gcr-codebase/
+│   │  |  └── 📁 JavaOopsConcepts/
+│   │  |    └── 📁 src/
+│   │  |         └── 📁 com/
+│   │  |             ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │  |             └── 📁 constructor/       # Constructor, access modifiers
+│   │  |             └── 📁 inbuiltfunctions/  # Keywords, instance vs class members
+│   │  |             └── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │  |             └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │  |             └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   |  ├── 📁 leet-code-codebase/              # LeetCode solutions
+│   |  └── 📁 scenario-based-codebase/         # Real-world problems
 |
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
@@ -61,11 +62,26 @@ BridgeLabz-Training/
 │   │               └── 📁 stacksandqueues/             # Last-In-First-Out (LIFO) and First-In-First-Out (FIFO)
 │   │               └── 📁 hashmapsandhashfunctions/    # Key-Value pairs
 │   │               └── 📁 sorting/                     # Sorting algorithms
+|   |               └── 📁 linearandbinarysearch/       # Searching algorithms
+|   |               └── 📁 analysis/                    # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                          # LeetCode solutions
 │   └── 📁 scenario-based-codebase/                     # Real-world problems
 |
+└── 📁 java-collections-practice/
+|   └── 📁 java-collections-practice/
+|   |   └── 📁 gcr-codebase/
+|   |   |   └── 📁 JavaCollectionsProblem/
+|   |   |       └── 📁 src/
+|   |   |           └── 📁 com/
+|   |   |                ├── 📁 generics/             # Java generics basics
+|   |   |                ├── 📁 collections/          # List, Set, Map and Queue Interfaces
+|   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/               # Real-world problems
+|   
 └── README.md
 ```
+
+---
 
 ---
 
@@ -105,6 +121,16 @@ BridgeLabz-Training/
 |  18 | 05-Jan      | Seraching and Fiel handling    | Dearch,stringbuilder/buffer file reader|
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 
+
+### **Week 4 : Java Caollection Framework**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|     |             |                                |                                        |
+|     |             |                                |                                        |
+---
+
+
 ---
 
 ##  Key Concepts Covered
@@ -139,6 +165,10 @@ BridgeLabz-Training/
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
   
 - 
+### Java Caollection Framework (java-collections-practice)
+
+---
+
 ---
 
 ## 🔗 Quick Links
@@ -169,3 +199,11 @@ BridgeLabz-Training/
 - 📌 [Sorting Algorithms](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 ---
 
+
+## 🎓 Learnings & Best Practices
+-  **Code Organization**: Following industrial standards
+-  **Naming Conventions**: Camel case, Pascal case and meaningful names
+-  **Version Control**: Regular commits with descriptive messages
+-  **Problem-Solving**: Breaking complex problems into smaller tasks
+-  **Documentation**: Clear comments and README files
+--
