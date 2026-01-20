@@ -126,8 +126,8 @@ BridgeLabz-Training/
 
 | Day |     Date    | Topic                          | Coverage                               |
 |-----|-------------|--------------------------------|----------------------------------------|
-|     |             |                                |                                        |
-|     |             |                                |                                        |
+|  22 | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards   |
+|  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces 
 ---
 
 
