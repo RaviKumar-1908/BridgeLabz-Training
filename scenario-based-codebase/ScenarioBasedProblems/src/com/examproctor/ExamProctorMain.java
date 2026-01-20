@@ -1,4 +1,4 @@
-package com.day3.examproctor;
+package com.examproctor;
 
 public class ExamProctorMain {
 
