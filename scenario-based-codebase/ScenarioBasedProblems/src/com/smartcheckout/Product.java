@@ -1,4 +1,4 @@
-package com.day3.smartcheckout;
+package com.smartcheckout;
 
 public class Product {
 	double price;

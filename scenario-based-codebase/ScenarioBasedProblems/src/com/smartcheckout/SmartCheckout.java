@@ -1,4 +1,4 @@
-package com.day3.smartcheckout;
+package com.smartcheckout;
 
 import java.util.*;
 
