@@ -1,4 +1,4 @@
-package com.day3.parceltracker;
+package com.parceltracker;
 
 public class ParcelTrackerApp {
 
