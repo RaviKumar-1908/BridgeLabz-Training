@@ -164,7 +164,7 @@ BridgeLabz-Training/
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
   
-- 
+
 ### Java Caollection Framework (java-collections-practice)
 
 ---
@@ -198,6 +198,13 @@ BridgeLabz-Training/
 - 📌 [HashMaps and Hash Functions](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapandhashfunctions)
 - 📌 [Sorting Algorithms](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 ---
+
+### `java-collections-practice` : 
+- 📌 [Generics](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/generics)
+- 📌 [Collections](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
+---
+
+
 
 
 ## 🎓 Learnings & Best Practices
