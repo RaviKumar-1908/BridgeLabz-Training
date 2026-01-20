@@ -1,4 +1,4 @@
-package com.day02.texteditorapp;
+package com.texteditorapp;
 
 public class TextEditorApp {
 	public static void main(String[] args) {
