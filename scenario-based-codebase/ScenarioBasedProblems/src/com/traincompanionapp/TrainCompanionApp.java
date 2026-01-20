@@ -9,7 +9,7 @@ Requirements:
 	● Display adjacent compartments for quick decisions. 
 */
 
-package com.day02.traincompanionapp;
+package com.traincompanionapp;
 
 public class TrainCompanionApp {
 	public static void main(String[] args) {

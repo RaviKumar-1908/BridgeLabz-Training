@@ -1,4 +1,4 @@
-package com.day02.traincompanionapp;
+package com.traincompanionapp;
 
 // Doubly Linked List representing train compartments in sequence
 public class TrainCoach {

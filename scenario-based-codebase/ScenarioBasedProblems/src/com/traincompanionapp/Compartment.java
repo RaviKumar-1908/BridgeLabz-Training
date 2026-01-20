@@ -1,4 +1,4 @@
-package com.day02.traincompanionapp;
+package com.traincompanionapp;
 
 public class Compartment {
 	String type;
