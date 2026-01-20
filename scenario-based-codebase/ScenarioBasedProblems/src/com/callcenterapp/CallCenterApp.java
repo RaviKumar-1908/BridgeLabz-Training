@@ -10,7 +10,8 @@ Requirements:
 	● Priority Queue for VIP customers.
 */
 
-package com.day02.callcenterapp;
+package com.callcenterapp;
+
 
 public class CallCenterApp {
 	

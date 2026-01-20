@@ -1,4 +1,6 @@
-package com.day02.callcenterapp;
+package com.callcenterapp;
+
+
 
 import java.util.Queue;
 import java.util.PriorityQueue;
@@ -13,7 +15,7 @@ public class CallCenter {
 
 	public CallCenter() {
 		regularQueue = new LinkedList<>();
-		vipQueue = new PriorityQueue<>((_, _) -> 0); // All VIP have same priority
+//		vipQueue = new PriorityQueue<>((_, _) -> 0); // All VIP have same priority
 		callCountMap = new HashMap<>();
 	}
 

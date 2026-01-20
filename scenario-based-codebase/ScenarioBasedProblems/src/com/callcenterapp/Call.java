@@ -1,4 +1,4 @@
-package com.day02.callcenterapp;
+package com.callcenterapp;
 
 public class Call {
     private String customerId;
