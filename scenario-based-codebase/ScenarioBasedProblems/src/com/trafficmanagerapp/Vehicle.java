@@ -1,4 +1,4 @@
-package com.day02.trafficmanagerapp;
+package com.trafficmanagerapp;
 
 class Vehicle {
 	String numberPlate;

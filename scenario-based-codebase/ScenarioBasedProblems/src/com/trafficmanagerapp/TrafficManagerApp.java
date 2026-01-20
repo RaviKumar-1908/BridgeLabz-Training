@@ -10,7 +10,7 @@ Requirements:
 	● Print state of roundabout at any time.
 */
 
-package com.day02.trafficmanagerapp;
+package com.trafficmanagerapp;
 
 public class TrafficManagerApp {
 	public static void main(String[] args) {

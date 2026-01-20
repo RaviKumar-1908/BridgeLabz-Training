@@ -1,4 +1,4 @@
-package com.day02.trafficmanagerapp;
+package com.trafficmanagerapp;
 
 import java.util.Queue;
 import java.util.LinkedList;
