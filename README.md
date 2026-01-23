@@ -19,6 +19,8 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [dsa-practice](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com)
+**Week 4** : Java Collections Framework
 ---
 
 ## 📂 Project Structure
@@ -75,6 +77,8 @@ BridgeLabz-Training/
 |   |   |           └── 📁 com/
 |   |   |                ├── 📁 generics/             # Java generics basics
 |   |   |                ├── 📁 collections/          # List, Set, Map and Queue Interfaces
+|   |   |                ├── 📁 streams/              # I/O streams, buffering, and serialization
+|   |   |                ├── 📁 exceptionhandling/    # checked, unchecked and custom exceptions 
 |   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
 │   |   └── 📁 scenario-based-codebase/               # Real-world problems
 |   
@@ -129,6 +133,8 @@ BridgeLabz-Training/
 |  22 | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards   |
 |  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces 
 |  24 | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                    |
+|  25 | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested        |
+
 ---
 
 
@@ -174,6 +180,9 @@ BridgeLabz-Training/
 - **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
 - **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
 - **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 
 ---
 
@@ -211,6 +220,8 @@ BridgeLabz-Training/
 ### `java-collections-practice` : 
 - 📌 [Generics](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/generics)
 - 📌 [Collections](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
+- 📌 [Exception-Handling](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/exceptionhandling)
+  
 ---
 
 
