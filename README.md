@@ -86,7 +86,7 @@ BridgeLabz-Training/
 - Solved practical problems including file copy, serialization, and efficient large-file reading.
 - Committed and pushed all work.
 - 🔗 **Code Link:**  
-👉 [Java I/O Streams]
+👉 [Java I/O Streams](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/streams)
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
