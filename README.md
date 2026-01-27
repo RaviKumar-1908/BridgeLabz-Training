@@ -134,6 +134,8 @@ BridgeLabz-Training/
 |  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces 
 |  24 | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                    |
 |  25 | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested        |
+|  26 | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions       |
+|  27 | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies            |
 
 ---
 
@@ -183,6 +185,9 @@ BridgeLabz-Training/
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 
 ---
 
@@ -221,7 +226,13 @@ BridgeLabz-Training/
 - 📌 [Generics](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/generics)
 - 📌 [Collections](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
 - 📌 [Exception-Handling](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/exceptionhandling)
-  
+📌 [Regex](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/regex)
+- 📌 [JUnit]()
+- 📌 [Reflection](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/reflection)
+- 📌 [Annotations](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/annotations)
+- 📌 [Custom_Annotations](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/customannotations)
+- 📌 [Scenario_Based_Solution](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
 ---
 
 
