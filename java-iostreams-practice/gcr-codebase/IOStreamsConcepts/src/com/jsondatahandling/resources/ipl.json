@@ -1,0 +1,26 @@
+
+[
+  {
+    "match_id": 101,
+    "team1": "MI",
+    "team2": "CSK",
+    "score": {
+      "Mumbai Indians": 178,
+      "Chennai Super Kings": 182
+    },
+    "winner": "CSK",
+    "player_of_match": "MSD"
+  },
+  {
+    "match_id": 102,
+    "team1": "RCB",
+    "team2": "DC",
+    "score": {
+      "Royal Challengers Bangalore": 200,
+      "Delhi Capitals": 190
+    },
+    "winner": "RCB",
+    "player_of_match": "VK"
+  }
+]
+
