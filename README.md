@@ -21,6 +21,13 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ### 🔹 [java-collections-practice](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com)
 **Week 4** : Java Collections Framework
+
+### 🔹 [java-collections-practice](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O streams
+
+### 🔹 [java8-programming-practice](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
+
 ---
 
 ## 📂 Project Structure
@@ -81,7 +88,32 @@ BridgeLabz-Training/
 |   |   |                ├── 📁 exceptionhandling/    # checked, unchecked and custom exceptions 
 |   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
 │   |   └── 📁 scenario-based-codebase/               # Real-world problems
-|   
+└── 📁 java-iostreams-practice/
+|   └── 📁 java-iostreams-practice/
+|   |   └── 📁 gcr-codebase/
+|   |   |   └── 📁 IOStreamsConcepts/
+|   |   |       └── 📁 src/
+|   |   |           └── 📁 com/
+|   |   |               ├── 📁 csvdata/            # CSV Data Handling
+|   |   |               ├── 📁 jsondatahandling/   # JSON parsing, schema validation, mapping, conversions
+|   |   ├── 📁 leet-code-codebase/                 # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/            # Real-world problems
+|
+├── 📁 java8-programming-practice/
+|   ├── 📁 java8-programming-practice/
+│   |    ├── 📁 gcr-codebase/
+│   │    |    └── 📁 Java8Concepts/
+│   │    |        └── 📁 src/
+│   │    |            └── 📁 com/
+│   │    |                ├── 📁 lambdasexpression/           # Lambda expressions, functional interfaces, syntax
+│   │    |                └── 📁 methodreferences/            # Static, instance, constructor references
+|   |    |                └── 📁 interfaces/                  # Default methods, static methods, functional interfaces
+|   |    |                └── 📁 streamapi/                   # Stream creation, filter, map, reduce operations
+|   |    |                └── 📁 collectors/                  # groupingBy, mapping, averaging, summarizing
+|   |    |                └── 📁 foreachmethod/               # forEach with lambda and method references
+|   |    |                └── 📁 smartcitymanagementsystem/   # workshop based on the java8 features
+│   |    ├── 📁 leet-code-codebase/                           # LeetCode solutions
+│   |    └── 📁 scenario-based-codebase/                      # Real-world problems
 └── README.md
 ```
 
@@ -137,6 +169,14 @@ BridgeLabz-Training/
 |  26 | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions       |
 |  27 | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies            |
 
+## **🗓 Week 5 : Java I/O Streams**
+
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+|  28 | 23-Jan      | CSV Data Handling              | Introduction, Reading, Writing, Parsing and  Data Validation        |
+|  29 | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
+
+
 ---
 
 
@@ -189,6 +229,10 @@ BridgeLabz-Training/
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
 - **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 
+### Java IOStreams (java-iostreams-practice)
+- **CSV Data Handling**: Introduction, Reading, Writing, Parsing and  Data Validation of CSV Files
+- **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
+
 ---
 
 ## 🔗 Quick Links
@@ -232,6 +276,11 @@ BridgeLabz-Training/
 - 📌 [Annotations](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/annotations)
 - 📌 [Custom_Annotations](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/customannotations)
 - 📌 [Scenario_Based_Solution](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+### `java-iostreams-practice` :
+- 📌 [CSV_File_Data](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+- 📌 [JSON_Data_Handling](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondatahandling)
+
 
 ---
 
