@@ -1,0 +1,6 @@
+package com.basicsystemtasks;
+
+@FunctionalInterface
+public interface EvenOddCheck {
+    boolean isEven(int n);
+}
