@@ -177,6 +177,13 @@ BridgeLabz-Training/
 |  29 | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
 
 
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                                    | Coverage                                                            |
+|-----|-------------|------------------------------------------|---------------------------------------------------------------------|
+|  30 | 27-Jan      | Lambdas, method references & interfaces  | Lambdas expressions, method references and interfaces               |
+|  31 | 28-Jan      | Stream API, Collectors and workshop      | Stream creation, filter, map, reduce, Collectors, hands-on workshop |
+
+
 ---
 
 
@@ -232,6 +239,18 @@ BridgeLabz-Training/
 ### Java IOStreams (java-iostreams-practice)
 - **CSV Data Handling**: Introduction, Reading, Writing, Parsing and  Data Validation of CSV Files
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
+
+
+### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/lambdaexpression)
+- 📌 [Method References](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/methodreferences)
+- 📌 [Interfaces](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/interfaces)
+- 📌 [For_Each_Method](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/foreachmethod)
+- 📌 [StreamAPI](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
+- 📌 [Collectors](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
+- 📌 [WorkShop](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/smartcitymanagementsystem)
+   
+---
 
 ---
 
