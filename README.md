@@ -241,16 +241,7 @@ BridgeLabz-Training/
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
 
-### `java8-programming-practice` :
-- 📌 [Lambda Expressions](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/lambdaexpression)
-- 📌 [Method References](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/methodreferences)
-- 📌 [Interfaces](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/interfaces)
-- 📌 [For_Each_Method](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/foreachmethod)
-- 📌 [StreamAPI](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
-- 📌 [Collectors](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
-- 📌 [WorkShop](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/smartcitymanagementsystem)
-   
----
+
 
 ---
 
@@ -300,6 +291,16 @@ BridgeLabz-Training/
 - 📌 [CSV_File_Data](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
 - 📌 [JSON_Data_Handling](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondatahandling)
 
+### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/lambdaexpression)
+- 📌 [Method References](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/methodreferences)
+- 📌 [Interfaces](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/interfaces)
+- 📌 [For_Each_Method](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/foreachmethod)
+- 📌 [StreamAPI](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
+- 📌 [Collectors](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
+- 📌 [WorkShop](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/smartcitymanagementsystem)
+   
+---
 
 ---
 
