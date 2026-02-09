@@ -114,6 +114,16 @@ BridgeLabz-Training/
 |   |    |                └── 📁 smartcitymanagementsystem/   # workshop based on the java8 features
 │   |    ├── 📁 leet-code-codebase/                           # LeetCode solutions
 │   |    └── 📁 scenario-based-codebase/                      # Real-world problems
+|   |
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DesignConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 designprinciples/  # SOLID principles and design patterns
+│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
+|   |
+│   └── 📁 scenario-based/                    # Real-world problems
 └── README.md
 ```
 
@@ -182,6 +192,13 @@ BridgeLabz-Training/
 |-----|-------------|------------------------------------------|---------------------------------------------------------------------|
 |  30 | 27-Jan      | Lambdas, method references & interfaces  | Lambdas expressions, method references and interfaces               |
 |  31 | 28-Jan      | Stream API, Collectors and workshop      | Stream creation, filter, map, reduce, Collectors, hands-on workshop |
+
+### **Week 7 : Java Design Principles & Design Patterns**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
+| 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
+
 
 
 ---
@@ -299,7 +316,12 @@ BridgeLabz-Training/
 - 📌 [StreamAPI](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
 - 📌 [Collectors](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/streamapi)
 - 📌 [WorkShop](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/smartcitymanagementsystem)
-   
+
+### `java-design-pattern-practice` :
+- 📌 [Design Principles & Patterns](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy)
+- 📌 [Multithreading](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+
+
 ---
 
 ---
