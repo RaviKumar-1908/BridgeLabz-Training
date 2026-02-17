@@ -33,6 +33,30 @@
 - 🔗 **Code Link:**  
 👉 [DBMS & SQL Practice](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com)
 
+
+### 🗓 Day 35 – JDBC Fundamentals & Database Connectivity  
+**(Date: 09-Feb-2026)**
+- Studied JDBC architecture and workflow.
+- Learned core JDBC components:
+  - `DriverManager`, `Connection`, `Statement`
+  - `PreparedStatement`, `CallableStatement`, `ResultSet`
+- Established MySQL database connection using JDBC driver.
+- Implemented CRUD operations:
+  - INSERT, SELECT, UPDATE, DELETE
+- Compared `Statement` vs `PreparedStatement` and learned SQL injection prevention.
+- Practiced ResultSet processing and data retrieval.
+- Learned transaction management concepts:
+  - Auto-commit, commit, rollback, savepoints
+- Followed JDBC best practices:
+  - Try-with-resources
+  - Proper exception handling
+  - Secure query execution
+- Introduced DAO and DTO design patterns for database applications.
+- Solved JDBC practice programs and committed all work.
+- 🔗 **Code Link:**  
+👉 [JDBC Practice](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com/jdbc)
+
+
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
