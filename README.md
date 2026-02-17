@@ -124,6 +124,26 @@ BridgeLabz-Training/
 │   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
 |   |
 │   └── 📁 scenario-based/                    # Real-world problems
+|
+├── 📁 dbms-jdbc-practice/
+|   ├── 📁 dbms-jdbc-practice/
+│   |   ├── 📁 gcr-codebase/
+│   │   |    └── 📁 DbmsJdbcConcepts/
+│   │   |        ├── 📁 src/
+│   │   |        │   ├── 📁 main/
+│   │   |        │   |    └── 📁 java/
+│   │   |        │   |        └── 📁 com/
+│   │   |        │   |            └── 📁 sql/                         # Sql queries 
+│   │   |        │   |            └── 📁 jdbc/                        # JDBC Basic Programs
+|   |   |        |   └── 📁 Test/
+|   |   |        |        └── 📁 java/
+|   |   |        |            └── 📁 com/
+|   |   |        |                └── 📁 Studentmanagementsyatem/     # student management syatem testing
+│   │   |        └── pom.xml                                          # Maven configuration and dependency management
+│   │   |
+│   |   ├── 📁 leet-code-codebase/                   # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/              # Real-world problems
+|
 └── README.md
 ```
 
@@ -199,6 +219,12 @@ BridgeLabz-Training/
 | 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
 | 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
 
+### **Week 8 : DBMS, SQL & JDBC Fundamentals**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 34  | 06-Feb      | DBMS & SQL Optimization        | Normalization, joins, transactions, indexes, tuning & EXPLAIN       |
+| 35  | 09-Feb      | JDBC Fundamentals, Connectivity| JDBC architecture, CRUD operations, transactions, DAO/DTO patterns  |
+
 
 
 ---
@@ -257,6 +283,37 @@ BridgeLabz-Training/
 - **CSV Data Handling**: Introduction, Reading, Writing, Parsing and  Data Validation of CSV Files
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
+
+### Java 8 Features (java8-programming-practice)
+- **Lambda Expressions**: Functional programming syntax and usage
+- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
+- **Method References**: Static, instance, and constructor references
+- **Interface Enhancements**: Default and static methods
+- **Collectors**: groupingBy, mapping, averaging, summarizing
+- **Workshop**: Real-world data processing using streams
+- **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### Java Design Principles & Design Patterns (java-design-pattern-practice)
+- **Design Principles**: SOLID, DRY, KISS, YAGNI, composition over inheritance
+- **Design Patterns**: Singleton, Factory, Observer, Builder
+- **Clean Code Practices**: Object Calisthenics, interface-driven design
+- **Multithreading**: Thread lifecycle, creation using Thread & Runnable, priorities, daemon threads
+- **Synchronization**: Locks, shared resource handling, race-condition prevention
+- **Concurrency Testing**: JUnit validation, timing logs, performance comparison
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### DBMS, SQL & JDBC Fundamentals (dbms-jdbc-practice)
+- **Database Design**: Normal forms (1NF–4NF, BCNF), schema modeling
+- **Keys**: Primary, foreign, composite, candidate, unique
+- **SQL Commands**: DDL, DML, DQL, DCL, TCL
+- **Joins**: Inner, outer, cross, self joins
+- **Advanced Queries**: Subqueries, CTEs, window functions
+- **Indexing**: Clustered, non-clustered, composite, full-text
+- **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
+- **JDBC Architecture**: DriverManager, Connection, Statement APIs
+- **Database Operations**: CRUD using PreparedStatement
+- **Transactions**: Commit, rollback, savepoints, auto-commit handling
+- **Design Patterns**: DAO and DTO for database applications
 
 
 
@@ -322,6 +379,12 @@ BridgeLabz-Training/
 - 📌 [Multithreading](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
 
 
+### `dbms-jdbc-practice` :
+- 📌 [DBMS, MySQL & SQL](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com/sql)
+- 📌 [JDBC](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com/jdbc)
+- 📌 [Scenario-Based Solutions](https://github.com/RaviKumar-1908/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/day01)
+   
+---
 ---
 
 ---
